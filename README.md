@@ -2,7 +2,7 @@
 - 👀 I’m interested in fullstack development
 - 🌱 I’m currently learning devops as well as python
 - 💞️ I’m looking to collaborate on nothing at the moment
-- 📫 How to reach me miguelmarcoramcharan@gmail.com, 061 149 8474
+- 📫 How to reach me miguelmarcoramcharan@gmail.com
 - 😄 Pronouns: king/prince
 - ⚡ Fun fact: we are who we are
 
