@@ -49,4 +49,4 @@ Feel free to connect with me:
 
 ## 🎉 Fun Fact
 
-I once [interesting fact about you]!
+I once Saw Another Person[Person]!
