@@ -14,9 +14,9 @@ Welcome to my GitHub profile! Here you'll find a collection of my projects, cont
 
 Here are some of the tools and technologies I love to work with:
 
-- **Languages:** JavaScript, Python, Go, TypeScript, Rust
-- **Frameworks:** React, Express.js, Django
-- **Tools:** Git, Docker, AWS, BunnyCDN, MongoDB
+- **Languages:** HTML5, CSS, JavaScript, Python, Go, TypeScript, SQL, noSQL, Bash
+- **Frameworks:** React, Express.js, Mux Router
+- **Tools:** Git, Docker, AWS, BunnyCDN, MongoDB, Kubernetes, RabbitMQ, Jenkins, Linux
 
 ## 🔭 Current Projects
 
@@ -38,15 +38,12 @@ Check out some of my featured projects:
 
 Feel free to connect with me:
 
-- [Twitter](https://twitter.com/your-username)
-- [LinkedIn](https://linkedin.com/in/your-username)
-- [Email](mailto:your-email@example.com)
+- [LinkedIn](https://www.linkedin.com/in/miguelmarco-ramcharan-34b04a277)
+- [Email](miguelmarcoramcharan@gmail.com)
 
 ## 🔗 Useful Links
 
-- [My Portfolio](link-to-portfolio)
-- [My Blog](link-to-blog)
+- [My Portfolio](https://www.codebymarco.com/)
 
 ## 🎉 Fun Fact
-
-I once Saw Another Person[Person]!
+I once Saw Another Person[Person]
