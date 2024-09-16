@@ -25,7 +25,7 @@ Here are some of the tools and technologies I love to work with:
 
 ## 📈 My GitHub Stats
 
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&theme=radical)
+![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=codebymarco&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&theme=radical)
 
 ## ✨ Featured Projects
 
