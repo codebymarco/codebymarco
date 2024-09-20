@@ -20,8 +20,7 @@ Here are some of the tools and technologies I love to work with:
 
 ## 🔭 Current Projects
 
-- **Project 1:** [Brief description of Project 1](link-to-project)
-- **Project 2:** [Brief description of Project 2](link-to-project)
+- **Captcha App:** [Web Security App](link-to-project)
 
 ## 📈 My GitHub Stats
 
@@ -31,10 +30,10 @@ Here are some of the tools and technologies I love to work with:
 
 Check out some of my featured projects:
 
-- [**Indeed**](link-to-project): A Job portal.
-- [**Formio**](link-to-project): Form Integration app.
-- [**Portfoliohub**](link-to-project): Allows anyone to create a web portfolio.
-- [**Linkbio**](link-to-project): All your links in one place.
+- [**Indeed**](https://indeed-console.vercel.app): A Job portal.
+- [**Formio**](https://formio-console.vercel.app): Form Integration app.
+- [**Portfoliohub**](https://iportfolio-console.vercel.app): Allows anyone to create a web portfolio.
+- [**Linkbio**](https://linkbio-console.vercel.app/): All your links in one place.
 
 ## 💬 Get in Touch
 
