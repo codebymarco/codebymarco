@@ -31,8 +31,10 @@ Here are some of the tools and technologies I love to work with:
 
 Check out some of my featured projects:
 
-- [**Project Name**](link-to-project): A short description of what this project does.
-- [**Another Project**](link-to-project): What makes this project special.
+- [**Indeed**](link-to-project): A Job portal.
+- [**Formio**](link-to-project): Form Integration app.
+- [**Portfoliohub**](link-to-project): Allows anyone to create a web portfolio.
+- [**Linkbio**](link-to-project): All your links in one place.
 
 ## 💬 Get in Touch
 
