@@ -20,7 +20,8 @@ Here are some of the tools and technologies I love to work with:
 
 ## 🔭 Current Projects
 
-- **Captcha App:** [Web Security App](link-to-project)
+- **Captchio:** [Web security app protecting against bots](link-to-project)
+- **SpaceTag:** [Tag Loader for your site](link-to-project)
 
 ## 📈 My GitHub Stats
 
