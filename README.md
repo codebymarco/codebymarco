@@ -4,7 +4,7 @@ Welcome to my GitHub profile! Here you'll find a collection of my projects, cont
 
 ## 🚀 About Me
 
-- 💼 I'm an Interstellar Developer at Decidio GMBH.
+- 💼 I'm an Fullstack Developer at Decidio GMBH.
 - 🌍 Based in Durban, South Africa.
 - 💡 Passionate about Football, Coding, and Money.
 - 🎯 Currently working on My Portfolio Generator App.
@@ -47,4 +47,4 @@ Welcome to my GitHub profile! Here you'll find a collection of my projects, cont
 - [Email](mailto:miguelmarcoramcharan@gmail.com)
 
 ## 🎉 Fun Fact
-I once saw someone win a staring contest against a cat! 🐱
+I can type faster than I can run! 🏃‍♂️💻
