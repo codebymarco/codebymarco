@@ -39,10 +39,6 @@ Welcome to my GitHub profile! Here you'll find a collection of my projects, cont
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=codebymarco&layout=compact&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=codebymarco&theme=radical)
 
-### More Stats
-- Total Repositories: ![Repo Count](https://img.shields.io/badge/Repos-20-blue)
-- Commits in Last Year: ![Commit Count](https://img.shields.io/badge/Commits-500+-green)
-
 ## ✨ Featured Projects
 
 - [**Indeed**](https://indeed-console.vercel.app): A Job portal.
