@@ -37,7 +37,6 @@ Welcome to my GitHub profile! Here you'll find a collection of my projects, cont
 
 ![Marco's GitHub Stats](https://github-readme-stats.vercel.app/api?username=codebymarco&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=codebymarco&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=codebymarco&theme=radical)
 
 ## ✨ Featured Projects
 
