@@ -5,6 +5,8 @@ Welcome to my GitHub profile! Here you'll find a collection of my projects, cont
 ## 🚀 About Me
 
 - 💼 I'm a Fullstack Developer at Decidio GMBH.
+- simulation theory
+- loop theory
 - 🌍 Based in Durban, South Africa.
 - 💡 Passionate about Football, Coding, and Money.
 - 🎯 Currently working on My Portfolio Generator App.
