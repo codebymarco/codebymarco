@@ -1,10 +1,15 @@
+<!-- Black & White Magazine Theme for GitHub Profile -->
+<div align="center" style="background-color: #000000; color: #FFFFFF; padding: 20px; width: 100%;">
+
 # MARCO RAMCHARAN
 ## _Full-Stack Developer & Digital Craftsman_
 
-![Profile Views](https://img.shields.io/badge/Profile%20Views-stylish-black?style=flat-square)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-black?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/miguelmarco-ramcharan-34b04a277)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-black?style=flat-square&logo=google-chrome)](https://iportfolio-console.vercel.app)
-[![Email](https://img.shields.io/badge/Email-Contact-black?style=flat-square&logo=gmail)](mailto:miguelmarcoramcharan@gmail.com)
+![Contribution Snake](https://cdn.jsdelivr.net/gh/yesimyilmaz/yesimyilmaz/assets/images/github-contribution-grid-snake.svg)
+
+![Profile Views](https://img.shields.io/badge/Profile%20Views-stylish-white?style=flat-square&labelColor=black)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-white?style=flat-square&logo=linkedin&logoColor=white&labelColor=black)](https://www.linkedin.com/in/miguelmarco-ramcharan-34b04a277)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-white?style=flat-square&logo=google-chrome&logoColor=white&labelColor=black)](https://iportfolio-console.vercel.app)
+[![Email](https://img.shields.io/badge/Email-Contact-white?style=flat-square&logo=gmail&logoColor=white&labelColor=black)](mailto:miguelmarcoramcharan@gmail.com)
 
 ---
 
@@ -85,11 +90,11 @@ Modern solution for implementing and managing marketing tags and pixels with min
 ## WEEKLY RHYTHM
 
 ```
-JavaScript   ████████░░   70%
-TypeScript   ████░░░░░░   40%
-HTML/CSS     ███░░░░░░░   30%
-Python       ██░░░░░░░░   20%
-Go           █░░░░░░░░░   10%
+JavaScript   ██████████   70%
+TypeScript   ████████░░   40%
+HTML/CSS     ██████░░░░   30%
+Python       ████░░░░░░   20%
+Go           ██░░░░░░░░   10%
 ```
 
 ---
@@ -98,10 +103,12 @@ Go           █░░░░░░░░░   10%
 
 I value meaningful conversations and collaborative opportunities.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/miguelmarco-ramcharan-34b04a277)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github)](https://github.com/codebymarco)
-[![Email](https://img.shields.io/badge/Email-black?style=flat-square&logo=gmail)](mailto:miguelmarcoramcharan@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-white?style=flat-square&logo=linkedin&logoColor=white&labelColor=black)](https://www.linkedin.com/in/miguelmarco-ramcharan-34b04a277)
+[![GitHub](https://img.shields.io/badge/GitHub-white?style=flat-square&logo=github&logoColor=white&labelColor=black)](https://github.com/codebymarco)
+[![Email](https://img.shields.io/badge/Email-white?style=flat-square&logo=gmail&logoColor=white&labelColor=black)](mailto:miguelmarcoramcharan@gmail.com)
 
 ---
 
 *My fingers move at 90 WPM while my feet manage only 10 KPH. Digital sprinting always wins.*
+
+</div>
