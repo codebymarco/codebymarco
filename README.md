@@ -1,11 +1,11 @@
-# ![CODEBY MARCO](https://via.placeholder.com/800x200/000000/ffffff?text=CODEBY%0AMARCO)
+# ![CODEBY MARCO]([https://github.com/codebymarco/public-assets/codebymarco_logo_transparent_fixed.png](https://github.com/codebymarco/public-assets/blob/main/codebymarco_logo_transparent_fixed.png))
 
 <div align="center">
 
 ## **FULL-STACK DEVELOPER & DIGITAL ARCHITECT**
-### *Building the web, one commit at a time*
+### *BUILDING THE WEB ONE COMMIT AT A TIME*
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=ffffff&center=true&vCenter=true&width=600&lines=Welcome+to+my+digital+playground!;Crafting+code+that+actually+works;Always+learning%2C+always+building;Let's+make+something+awesome!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bebas+Neue&size=28&duration=3000&pause=1000&color=ffffff&center=true&vCenter=true&width=700&lines=WELCOME+TO+MY+DIGITAL+PLAYGROUND;CRAFTING+CODE+THAT+ACTUALLY+WORKS;ALWAYS+LEARNING+ALWAYS+BUILDING;LETS+MAKE+SOMETHING+AWESOME)
 
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-CHECK_IT_OUT-000000?style=for-the-badge&labelColor=ffffff&color=000000)](https://iportfolio-console.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-LET'S_CONNECT-000000?style=for-the-badge&labelColor=ffffff&color=000000)](https://www.linkedin.com/in/miguelmarco-ramcharan-34b04a277)
@@ -163,11 +163,11 @@ I value meaningful conversations and collaborative opportunities.
 
 <div align="center">
 
-### **"Code is poetry, bugs are just really bad metaphors."**
+### **"CODE IS POETRY BUGS ARE JUST REALLY BAD METAPHORS"**
 
-![Profile Views](https://komarev.com/ghpvc/?username=codebymarco&color=000000&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=codebymarco&color=000000&style=flat-square&label=PROFILE+VIEWS)
 
-**My fingers move at 90 WPM while my feet manage only 10 KPH.**  
-**Digital sprinting always wins.**
+**MY FINGERS MOVE AT 90 WPM WHILE MY FEET MANAGE ONLY 10 KPH**  
+**DIGITAL SPRINTING ALWAYS WINS**
 
 </div>
