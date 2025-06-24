@@ -1,4 +1,4 @@
-# ![CODEBY MARCO]([https://github.com/codebymarco/public-assets/codebymarco_logo_transparent_fixed.png](https://github.com/codebymarco/public-assets/blob/main/codebymarco_logo_transparent_fixed.png))
+# ![CODEBY MARCO](https://raw.githubusercontent.com/codebymarco/public-assets/main/codebymarco_logo_transparent_fixed.png)
 
 <div align="center">
 
